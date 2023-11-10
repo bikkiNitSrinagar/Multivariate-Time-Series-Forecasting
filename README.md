@@ -29,7 +29,8 @@ The solution is split into Exploratory data analysis and Model Building.
 Exploratory data analysis results are stored in below notebook.
 Exploratory data analysis.ipynb
 
-Below are the notebooks for Models:
+# Below are the notebooks for Models:
+
 Machine Learning - Model 1.ipynb ------------> for Non linear models
 
 Deep Learning - Model 1.ipyb   -------------->for Keras based linear regression
