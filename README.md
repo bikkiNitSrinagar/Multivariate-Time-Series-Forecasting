@@ -27,13 +27,13 @@ Here the dataset is Multivariate time series data. There are 9 attributes, they 
 The solution is split into Exploratory data analysis and Model Building.
 
 Exploratory data analysis results are stored in below notebook.
-
-1. Exploratory data analysis.ipynb
+Exploratory data analysis.ipynb
 
 Below are the notebooks for Models:
+Machine Learning - Model 1.ipynb ------------> for Non linear models
 
-2.Machine Learning - Model 1.ipynb ------------> for Non linear models
-3.Deep Learning - Model 1.ipyb   -------------->for Keras based linear regression
-4.Classical Linear Models.ipynb' -------------->for linear models
+Deep Learning - Model 1.ipyb   -------------->for Keras based linear regression
+
+Classical Linear Models.ipynb' -------------->for linear models
 
 
